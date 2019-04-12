@@ -1,4 +1,5 @@
 # OPTIMA cost-effectiveness model
+DOI: 10.5281/zenodo.2637718
 
 The cost-effectiveness model for the OPTIMA prelim trial was constructed in R and takes a very similar structural form to many similar models used for the evaluation of technologies for early breast cancer.
 You are welcome to reuse this code, but please cite the publication:
