@@ -10,3 +10,5 @@ This is an adaptation of a previous model:
 >Hall PS, McCabe C, Stein RC, Cameron D. Economic evaluation of genomic test–directed chemotherapy for early-stage lymph node–positive breast cancer. Journal of the National Cancer Institute. 2011 Dec 2;104(1):56-66.
 
 Any questions or comments please raise as issues.
+
+Please note: the model requires a dataset to run, which is currently not available in the public domain.
