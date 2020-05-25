@@ -12,6 +12,6 @@ This is an adaptation of a previous model:
 
 Any questions or comments please raise as issues.
 
-Please note: the model requires a dataset to run, which is currently not available in the public domain.
+Please note: the model requires a dataset to run, which is currently not available in the public domain. Please get in touch if you would like to use this.
 
 Copyright Peter Hall 2019 GNU General Public License v3.0 and later.
